@@ -1,0 +1,25 @@
+body{
+    margin-top: auto;
+    font-family: 'Tinos';
+}
+th.sorting_asc:hover{
+    background-color: grey;
+}
+td.sorting_1:hover{
+    background-color: grey;
+}
+th.sorting:hover{
+    background-color: grey;
+}
+td:hover{
+    background-color: grey;
+}
+div.col-sm-12{
+    background-color: white;
+}
+div.row{
+    background-color: white;
+}
+div.col-sm-7 a:hover{
+    background-color: rgb(96, 157, 210);
+}
